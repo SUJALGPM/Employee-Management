@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "OTm3fyRjEPy93qQBTxxGOmDEqQQsPH6LVi9C3DpjGTxOkY3Id30lGMqAje7Ein6F/5Lg0EVU2/cnHXw0Kt2MjQ==",
+  "success": true,
+  "projectFilePath": "S:\\COMPILER\\VISUAL STUDIO PROJECTS\\Ms_Excel_Back\\Ms_Excel_Back.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SUJAL\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\SUJAL\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\SUJAL\\.nuget\\packages\\system.data.oledb\\7.0.0\\system.data.oledb.7.0.0.nupkg.sha512",
+    "C:\\Users\\SUJAL\\.nuget\\packages\\system.diagnostics.performancecounter\\7.0.0\\system.diagnostics.performancecounter.7.0.0.nupkg.sha512",
+    "C:\\Users\\SUJAL\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\SUJAL\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\SUJAL\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\SUJAL\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
